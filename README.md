@@ -22,7 +22,7 @@ Table XI is a small part of the appendix of paper "Two new quorum based algorith
 
 This is the first paper, in which the authors Wai-Shing Luk et al. indentified one feasible base set that is feasible to generate a CQS with all-pairs property. The results are provided in the appendix. They are 1-based indexing while the notation in our paper is 0-based indexing.
 
-## Heuristic_method_for_large_value_p.ipynb
+## Heuristic_method_for_large_value_p.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YimingBian/CyclicQuorumSets/blob/main/Heuristic_method_for_large_value_p.ipynb)
 
 This Jupyter Notebook is a simple implementation of our heuristic method. When p is a composite number that can be decomposed to two factors that both fall into the range of 4 to 111. User can use this implementation to do sanity check of two cases mentioned in the paper: 
 1) p = 28, p_1 = 4, base_set_1 = [0, 1, 2], p_2 = 7, base_set_2 = [0, 1, 3]
