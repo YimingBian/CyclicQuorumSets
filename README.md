@@ -27,13 +27,13 @@ This is the first paper, in which the authors Wai-Shing Luk et al. indentified o
 This Jupyter Notebook is a simple implementation of our heuristic method. When p is a composite number that can be decomposed to two factors that both fall into the range of 4 to 111. User can use this implementation to do sanity check of two cases mentioned in the paper: 
 1) p = 28, p_1 = 4, base_set_1 = [0, 1, 2], p_2 = 7, base_set_2 = [0, 1, 3]
 2) p = 112, p_1 = 7, base_set_1 = [0, 1, 3], p_2 = 16, base_set_2 = [0, 1, 2, 5, 8]
-3) 
+  
 Also, further implementations on more sophisticated cases could be developed based on this simple version.
 
- - README.MD
+## README.MD
  
  This file.
 
- - All_Interest_Sets
+## All_Interest_Sets
  
  This folder contains raw results by Naive exhaustive search, just to make sure no feasible interest set is missing. These results reveal the insights of feasible interest sets and we are inspired them to find the pairing property. 
