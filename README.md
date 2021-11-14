@@ -2,8 +2,8 @@
 This repo contains
  - [Appendix.pdf](./Appendix.pdf)
  - [Two_new_quorum_based_algorithms_for_distributed_mutual_exclusion.pdf](./Two_new_quorum_based_algorithms_for_distributed_mutual_exclusion.pdf)
- - Heuristic_method_for_large_value_p.ipynb
- - README.MD
+ - [Heuristic_method_for_large_value_p.ipynb](./Heuristic_method_for_large_value_p.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YimingBian/CyclicQuorumSets/blob/main/Heuristic_method_for_large_value_p.ipynb)
+ - [README.MD](./README.MD)
  - [All_Interest_Sets](./All_Interest_Sets)
    - [4](./All_Interest_Sets/4)
    - [5](./All_Interest_Sets/5)
