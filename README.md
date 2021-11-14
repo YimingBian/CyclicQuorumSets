@@ -10,7 +10,7 @@ This repo contains
    - ...
    - 52
 
-## [Appendix.pdf](\Appendix.pdf)
+## [Appendix.pdf](./Appendix.pdf)
 
 This used to be the appendix of the paper "An Efficient Systematic Approach to Find All Cyclic Quorum Sets with All-pairs Property". Due to the page limit, it is removed from the paper and post here. 
 
